@@ -1,0 +1,15 @@
+:root,
+body {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  margin-top: 0 !important;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #bed4ce;
+}
+
+.link {
+  transition-property: color;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
